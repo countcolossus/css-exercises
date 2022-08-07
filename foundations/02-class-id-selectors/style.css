@@ -1,0 +1,20 @@
+.base {
+    background-color: rgb(251, 141, 247);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.baseSize {
+    font-size: 24px;
+}
+
+#variety1 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#variety2 {
+    background-color: #93c349;
+    font-size: 24px;
+    font-weight: bold;
+}
